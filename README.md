@@ -103,11 +103,13 @@ https://alertmanager.you.domain (Alert Manager)
 
 ---
 
-![image](https://user-images.githubusercontent.com/47698474/187187209-01dc738b-8d97-4f7e-b97c-4c6c49037c1c.png)
 
-![image](https://user-images.githubusercontent.com/47698474/187187646-1233c26c-db4f-427b-92f2-e04c7e161457.png)
+![image](https://user-images.githubusercontent.com/47698474/187188801-cd769ecb-235f-4a5d-a4a7-14aed87ff254.png)
 
-![image](https://user-images.githubusercontent.com/47698474/187187829-5cf3403e-aefa-43f4-b675-ed540367f4d0.png)
+![image](https://user-images.githubusercontent.com/47698474/187188826-4c87d43e-5bb4-4faf-aeb0-7e2ecc36438a.png)
+
+![image](https://user-images.githubusercontent.com/47698474/187188840-6b4b374c-2ebe-4767-8750-85b2b42e4657.png)
+
 
 
 ---
