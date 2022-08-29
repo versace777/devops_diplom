@@ -103,6 +103,7 @@ https://alertmanager.you.domain (Alert Manager)
 
 ---
 
+![image](https://user-images.githubusercontent.com/47698474/187189165-7df9dcca-1265-4bfe-9051-5f4fae996353.png)
 
 ![image](https://user-images.githubusercontent.com/47698474/187188801-cd769ecb-235f-4a5d-a4a7-14aed87ff254.png)
 
