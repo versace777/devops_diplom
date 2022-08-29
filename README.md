@@ -105,6 +105,8 @@ https://alertmanager.you.domain (Alert Manager)
 
 ![image](https://user-images.githubusercontent.com/47698474/187187209-01dc738b-8d97-4f7e-b97c-4c6c49037c1c.png)
 
+![image](https://user-images.githubusercontent.com/47698474/187187646-1233c26c-db4f-427b-92f2-e04c7e161457.png)
+
 ---
 ## 4. Установка кластера MySQL
 
